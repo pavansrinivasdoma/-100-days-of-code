@@ -7,6 +7,7 @@ print("Hello world\nHello world")
 #STRING CONCATINATION
 print("Hi"+" Guyss")
 print("Hi"+" "+"Guyss")
+#NOTE: Concatination is done between strings only.
 #NOTE: Indentation error - we should not keep spaces before syntax
 
 
